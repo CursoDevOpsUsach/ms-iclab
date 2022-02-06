@@ -1,3 +1,3 @@
-@Library('jenkinsfile-shared-library@feature/pipeline_param')_
+@Library('jenkinsfile-shared-library@feature/pipeline-param')_
 
 ejecucion.call()
